@@ -2,3 +2,7 @@
 Escape/Temp/
 
 Escape/Library/metadata/
+
+*.mdb
+
+*.dll
