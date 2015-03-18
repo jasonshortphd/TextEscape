@@ -1,5 +1,4 @@
 ﻿using UnityEngine;
-using UnityEditor.Sprites;
 using UnityEngine.UI;
 using System.Collections;
 
